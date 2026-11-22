@@ -1,0 +1,6 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "rules-vs-policies",
+  "version": "1.0.0",
+  "description": "When implementing decision-making logic, always ask the user whether to use concrete rules or abstract principles."
+}

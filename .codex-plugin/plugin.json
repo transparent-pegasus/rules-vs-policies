@@ -1,0 +1,11 @@
+{
+  "name": "rules-vs-policies",
+  "version": "1.0.0",
+  "description": "When implementing decision-making logic, always ask the user whether to use concrete rules or abstract principles.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rules vs Policies",
+    "shortDescription": "Always ask whether to use concrete rules or abstract principles.",
+    "category": "Developer Tools"
+  }
+}

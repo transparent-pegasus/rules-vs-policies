@@ -1,0 +1,20 @@
+{
+  "name": "rules-vs-policies",
+  "interface": {
+    "displayName": "Rules vs Policies"
+  },
+  "plugins": [
+    {
+      "name": "rules-vs-policies",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
